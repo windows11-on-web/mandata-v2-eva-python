@@ -21,5 +21,5 @@ Something mostly asked here: What does EVA Mean
 
 LOWEST hardware to run
 - 1GB Storage or more
-- 256MB RAM or more
-- 1.00GHz 1 core CPU or more
+- 64MB RAM or more
+- 800Mhz 1 core CPU or more
