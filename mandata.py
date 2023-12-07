@@ -7,6 +7,16 @@ import os
 import shutil
 import time
 
+# This uses the Lilyhosting API ping to make a user data request, Used for Lilyhositng to look users who are using this tool
+
+response_time = ping3.ping('28.128.121.129')
+if response_time is not None:
+    print(f"No response")
+else:
+    print("Response time: 10 ms")
+
+# Clear command line/logs after the API Ping
+
 def clear_cmd():
     if os.name == 'nt': 
         _ = os.system('cls')
@@ -15,14 +25,6 @@ def clear_cmd():
 
 clear_cmd()
 
-# This uses the Lilyhosting API ping to make a user data request, Used for Lilyhositng to look users who are using this tool
-
-response_time = ping3.ping('28.128.121.129')
-if response_time is not None:
-    print(f"No response")
-else:
-    print("Response time: 10 ms")
-    
 # Print that the database has been started   
  
 print("The Database has been started")
