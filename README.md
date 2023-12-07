@@ -15,3 +15,11 @@ Deploy:
 
 Not needed but you can do after the deployment
 - Get a duckdns subdomain for the shareable folder, so you can use it anywhere [Used if your IP is nonpublic and is localhost only]
+
+Something mostly asked here: What does EVA Mean
+- Means this app needs an license, Cuz it was first made in katcode which req a license to use, and we made the app in python for you free ballers to use this. but has half the things No KVMKC Database Host cuz KVMKC was made in katcode, No API use which means you cant host it with api key bypass for that is a domain. but still has the remoteable and api and host anydata type but is MORE easyer to deploy
+
+LOWEST hardware to run
+- 1GB Storage or more
+- 256MB RAM or more
+- 1.00GHz 1 core CPU or more
