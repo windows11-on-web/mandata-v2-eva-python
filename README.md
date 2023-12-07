@@ -3,7 +3,7 @@
 
 Free localhost database, Hostable for linux, mac, windows, All without nerdy coding.
 
-NOTE: This runs 24/7 no stop that means if you perhaps left python running in the backround which can overload your RAM and CPU and mostly Storage. Also this can be used for training an AI Model which is trained on APIs and IPs and Tokens
+**NOTE: This runs 24/7 no stop that means if you perhaps left python running in the backround which can overload your RAM and CPU, Also could make your files in the database at risk unless you have put a password on the folder share**
 
 
 Deploy:
@@ -14,7 +14,7 @@ Deploy:
 - Run ```python mandata.py```, The Data in the code root will be moved to a folder named "database-local"
 - Now the last step, Make "database-local" be a shareable folder in your network. this will make the folder remoteable from anywhere you are
 
-
+  
 Not needed but you can do after the deployment
 - Get a duckdns subdomain for the shareable folder, so you can use it anywhere [Used if your IP is nonpublic and is localhost only]
 
