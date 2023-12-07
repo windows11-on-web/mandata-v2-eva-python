@@ -1,6 +1,8 @@
 ## Mandata EVA
 # Your personal local database, Basiclly made for anything you like. API, Remoteable, Host any type of data even txt files, Easy to deploy, Cost Free.
 
+Free localhost database, Hostable for linux, mac, windows, All without nerdy coding.
+
 NOTE: This runs 24/7 no stop that means if you perhaps left python running in the backround which can overload your RAM and CPU and mostly Storage. Also this can be used for training an AI Model which is trained on APIs and IPs and Tokens
 
 Deploy:
