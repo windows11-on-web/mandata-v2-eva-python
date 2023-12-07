@@ -10,7 +10,7 @@ Deploy:
 - Install the Python Ping3 package, This is used for Lilyhosting API Ping.
 - Git this repo
 - Cd to the repo ```cd mandata-v2-eva-python```
-- Run ```python main.py```, The Data in the code root will be moved to a folder named "database-local"
+- Run ```python mandata.py```, The Data in the code root will be moved to a folder named "database-local"
 - Now the last step, Make "database-local" be a shareable folder in your network. this will make the folder remoteable from anywhere you are
 
 Not needed but you can do after the deployment
